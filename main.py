@@ -7,3 +7,4 @@ for i in range(a, b + 1):
             count += 1
     if count == 2:
         print(i)
+print("ty urod suka")
